@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-seri
+}
+.firstsection {
+    display: flex;
+    padding: 0 30px;
+    align-items: center;
+    
+}
+
+.nav {
+    display: flex;
+    height: 100%;
+    padding-left: 1px;
+    padding-right: 1px;
+    align-items: center;
+    margin-right: 580px;
+}
+
+.navsec {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.skype {
+    margin-left: 20px;
+    margin-right: 10px;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: -3px;
+}
+    
+
+.logo{
+    padding: 16px 6px 16px 10px;
+    height: 20px;
+    margin-top: 1px;
+    width: 137px;
+}
+.logo img {
+    height: auto;
+    width: 90px;
+}
+
+.downl {
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font: inherit;
+}
+
+.stp {
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.SN {
+   font-size: 15px;
+   margin-left: 10px;
+    margin-right: 10px;
+}
+
+.more {
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.host {
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sign{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.secsection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px 50px;
+    margin: 10px 50px;
+    /* width: 100%; */
+    
+}
+
+.firstparttext {
+    display: flex;
+    align-items: center;
+}
+.callwsk {
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 1.2em;
+}
+.callwsk p {
+   background: linear-gradient(90deg, #0078d4, #c218ec);
+   -webkit-background-clip: text;
+   color: transparent;
+    
+}
+
+.picsk {
+    padding:  60px 60px 60px 0;
+}
