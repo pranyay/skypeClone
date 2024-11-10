@@ -5,7 +5,7 @@
 }
 .firstsection {
     display: flex;
-    padding: 0 30px;
+    padding: 0 70px;
     align-items: center;
     
 }
@@ -16,7 +16,7 @@
     padding-left: 1px;
     padding-right: 1px;
     align-items: center;
-    margin-right: 580px;
+    margin-right: 480px;
 }
 
 .navsec {
@@ -86,15 +86,17 @@
     flex-direction: row;
     align-items: center;
     background-color: #f2f2f2;
-    padding: 10px 50px;
-    margin: 10px 50px;
+    /*padding: 10px 50px;*/
+    margin: 10px 70px;
     /* width: 100%; */
+    justify-content: space-evenly;
     
 }
 
-.firstparttext {
+.firstparttext{
     display: flex;
-    align-items: center;
+    padding: 100px;
+    flex-direction: column;
 }
 .callwsk {
     font-size: 3em;
@@ -110,5 +112,10 @@
 }
 
 .picsk {
-    padding:  60px 60px 60px 0;
+    padding:  px 60px 60px 0;
 }
+
+.imgsk img {
+    width: 700px;
+}
+
